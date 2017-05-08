@@ -1,0 +1,11 @@
+.idea/
+/*.iml
+/target
+
+pom.xml.versionsBackup
+
+*~
+.DS_Store
+node_modules/
+.npm
+.env
